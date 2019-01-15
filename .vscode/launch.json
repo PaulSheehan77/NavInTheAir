@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "http://psheehan10l",
+            "serverInstance": "dynamicsnav110",
+            "authentication":"Windows",
+            "startupObjectId": 30,//22,
+            "startupObjectType": "Page",
+            "breakOnError": true
+        }
+    ]
+}
